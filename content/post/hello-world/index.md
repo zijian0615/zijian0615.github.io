@@ -5,7 +5,7 @@ slug: hello-world
 date: 2024-01-01 00:00:00+0000
 image: njau.png
 categories:
-    - Example Category
+    - Summary
 tags:
     - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
