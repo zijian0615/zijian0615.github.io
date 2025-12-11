@@ -3,7 +3,7 @@ title: 2025 Summary
 description: 遇见
 slug: 2025-Summary
 date: 2025-01-01 00:00:00+0000
-image: skg.jpeg
+image: stanford.jpeg
 categories:
     - Summary
 tags:
@@ -12,4 +12,5 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 遇见
+
 
